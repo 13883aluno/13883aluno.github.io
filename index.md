@@ -12,16 +12,16 @@
 | HTML paragraphs (p e p) | [Passo 3][passo3] |
 | HTML links (a href) | [Passo 4][passo4] |
 | HTML images (img src) | [Passo 5][passo5] |
-| Repositório | [Link Direto](https://github.com/pedooor/primeiros_passos_html) |
+| Repositório | [Link Direto](https://github.com/13883aluno/passos-basicos) |
 
 #### Pauta fotográfica da turma 12º12ª:
 
 - [Resultado;](https://github.com/13883aluno/pt05/blob/main/tabela.html)
-- [Repositório;](https://github.com/pedooor/pt05_tabela)
+- [Repositório;](https://github.com/13883aluno/pt05)
 
 
-[passo1]: <https://pedooor.github.io/primeiros_passos_html/documento.html>
-[passo2]: <https://pedooor.github.io/primeiros_passos_html/cabecalhos.html>
-[passo3]: <https://pedooor.github.io/primeiros_passos_html/paragrafo.html>
-[passo4]: <https://pedooor.github.io/primeiros_passos_html/links.html>
-[passo5]: <https://pedooor.github.io/primeiros_passos_html/imagem.html>
+[passo1]: <https://github.com/13883aluno/passos-basicos/blob/main/1html.html>
+[passo2]: <https://github.com/13883aluno/passos-basicos/blob/main/2html.html>
+[passo3]: <https://github.com/13883aluno/passos-basicos/blob/main/3html.html>
+[passo4]: <https://github.com/13883aluno/passos-basicos/blob/main/4html.html>
+[passo5]: <https://github.com/13883aluno/passos-basicos/blob/main/5html.html>
