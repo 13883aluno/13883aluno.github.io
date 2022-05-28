@@ -20,11 +20,6 @@
 - [Repositório;](https://github.com/13883aluno/pt05)
 
 
-[passo1]: <https://github.com/13883aluno/passos-basicos/blob/main/1html.html>
-[passo2]: <https://github.com/13883aluno/passos-basicos/blob/main/2html.html>
-[passo3]: <https://github.com/13883aluno/passos-basicos/blob/main/3html.html>
-[passo4]: <https://github.com/13883aluno/passos-basicos/blob/main/4html.html>
-[passo5]: <https://github.com/13883aluno/passos-basicos/blob/main/5html.html>
 
 
 ## PT06: Prática em CSS
@@ -50,13 +45,14 @@ Neste passo opcional da PT optei por fazer um top 10 cidades mais habitadas de P
 - [Resultado;](https://github.com/13883aluno/pt06/blob/main/tabela/tabela.html)
 - [Repositório;](https://github.com/13883aluno/pt06/tree/main/tabela)
 
-[passo1]: <https://pedooor.github.io/primeiros_passos_html/documento.html>
-[passo2]: <https://pedooor.github.io/primeiros_passos_html/cabecalhos.html>
-[passo3]: <https://pedooor.github.io/primeiros_passos_html/paragrafo.html>
-[passo4]: <https://pedooor.github.io/primeiros_passos_html/links.html>
-[passo5]: <https://pedooor.github.io/primeiros_passos_html/imagem.html>
+[passo1]: <https://github.com/13883aluno/passos-basicos/blob/main/1html.html>
+[passo2]: <https://github.com/13883aluno/passos-basicos/blob/main/2html.html>
+[passo3]: <https://github.com/13883aluno/passos-basicos/blob/main/3html.html>
+[passo4]: <https://github.com/13883aluno/passos-basicos/blob/main/4html.html>
+[passo5]: <https://github.com/13883aluno/passos-basicos/blob/main/5html.html>
 
-[exemplo1]: <https://pedooor.github.io/pt06_exemplos/pt06/html/exemplo1.html>
+
+[exemplo1]: <https://github.com/13883aluno/pt06/blob/main/1/html1.html>
 [exemplo2]: <https://pedooor.github.io/pt06_exemplos/pt06/html/exemplo2.html>
 [exemplo3]: <https://pedooor.github.io/pt06_exemplos/pt06/html/exemplo3.html>
 [exemplo4]: <https://pedooor.github.io/pt06_exemplos/pt06/html/exemplo4.html>
