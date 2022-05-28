@@ -42,7 +42,7 @@ Aqui encontram-se todos os documentos criados no âmbito da PT06.
   
 Neste passo opcional da PT optei por fazer um top 10 artistas mais ouvidos no spotify.
 
-- [Resultado;](https://github.com/13883aluno/pt06/blob/main/tabela/tabela.html)
+- [Resultado;]<https://github.com/13883aluno/pt06/blob/main/tabela/tabela.html>
 - [Repositório;](https://github.com/13883aluno/pt06/tree/main/tabela)
 
 [passo1]: <https://github.com/13883aluno/passos-basicos/blob/main/1html.html>
