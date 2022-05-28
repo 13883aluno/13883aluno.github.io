@@ -40,7 +40,7 @@ Aqui encontram-se todos os documentos criados no âmbito da PT06.
  
 #### Tabela Opcional
   
-Neste passo opcional da PT optei por fazer um top 10 cidades mais habitadas de Portugal.
+Neste passo opcional da PT optei por fazer um top 10 artistas mais ouvidos no spotify.
 
 - [Resultado;](https://github.com/13883aluno/pt06/blob/main/tabela/tabela.html)
 - [Repositório;](https://github.com/13883aluno/pt06/tree/main/tabela)
@@ -53,7 +53,7 @@ Neste passo opcional da PT optei por fazer um top 10 cidades mais habitadas de P
 
 
 [exemplo1]: <https://github.com/13883aluno/pt06/blob/main/1/html1.html>
-[exemplo2]: <https://pedooor.github.io/pt06_exemplos/pt06/html/exemplo2.html>
-[exemplo3]: <https://pedooor.github.io/pt06_exemplos/pt06/html/exemplo3.html>
-[exemplo4]: <https://pedooor.github.io/pt06_exemplos/pt06/html/exemplo4.html>
-[exemplo5]: <https://pedooor.github.io/pt06_exemplos/pt06/html/exemplo5.html>
+[exemplo2]: <https://github.com/13883aluno/pt06/blob/main/2/html2.html>
+[exemplo3]: <https://github.com/13883aluno/pt06/blob/main/3/html3.html>
+[exemplo4]: <https://github.com/13883aluno/pt06/blob/main/4/html4.html>
+[exemplo5]: <https://github.com/13883aluno/pt06/blob/main/5/html5.html>
