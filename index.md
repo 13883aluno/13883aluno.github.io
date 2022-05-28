@@ -41,7 +41,7 @@ Aqui encontram-se todos os documentos criados no âmbito da PT06.
 | 3º CSS | [Exemplo 3][exemplo3] |
 | 4º CSS | [Exemplo 4][exemplo4] |
 | 5º CSS | [Exemplo 5][exemplo5] |
-| Repositório | [Link Direto](https://github.com/pedooor/primeiros_passos_html) |
+| Repositório | [Link Direto](https://github.com/13883aluno/pt06) |
  
 #### Tabela Opcional
   
