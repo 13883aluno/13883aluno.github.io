@@ -47,8 +47,8 @@ Aqui encontram-se todos os documentos criados no âmbito da PT06.
   
 Neste passo opcional da PT optei por fazer um top 10 cidades mais habitadas de Portugal.
 
-- [Resultado;](https://pedooor.github.io/tabela06/index.html)
-- [Repositório;](https://github.com/13883aluno/pt06)
+- [Resultado;](https://github.com/13883aluno/pt06/blob/main/tabela/tabela.html)
+- [Repositório;](https://github.com/13883aluno/pt06/tree/main/tabela)
 
 [passo1]: <https://pedooor.github.io/primeiros_passos_html/documento.html>
 [passo2]: <https://pedooor.github.io/primeiros_passos_html/cabecalhos.html>
